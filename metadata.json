@@ -1,0 +1,6 @@
+{
+  "name": "線上互動搶答平台",
+  "description": "一個簡潔、專業的線上即時搶答系統。支援掃描 QR Code 快速加入搶答室，自動判定並鎖定首位搶答者，並支援主辦端一鍵重製，採用 Deloitte 綠極簡配色設計。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
